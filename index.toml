@@ -11,6 +11,11 @@ hash = "c7763ceed9929d3364030c01a4602628ebf46a028d55e7dd06f5aeb6280d36a3"
 metafile = true
 
 [[files]]
+file = "mods/fabricexporter.pw.toml"
+hash = "d840aa504a2c9a157f8033b587f5aa5ff39eab39a11317ead8ce744ce43aab84"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "8fe7a1882593ac153622e5c2bdf8133157f5638040bf10ea3dc9ffcf2ec1930a"
 metafile = true
