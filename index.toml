@@ -1,2 +1,21 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "4008f08f39449681d5d6d6a31c068b683ba635ff0ca729bacbc6f9ce587d50ab"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "6b8bdb0032798b056e4850fc662382a58fcec305006db995596306f70fc5f145"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "42091dd3cb7d63665de58e178805e483bb10c12f70b7a778574d6281a9dce864"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "be3a34f96582b5931481d976d4c2cc1702e97d64cf18942fde8a948f92590e30"
+metafile = true
